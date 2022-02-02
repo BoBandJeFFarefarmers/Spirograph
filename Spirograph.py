@@ -27,8 +27,7 @@ t.penup()
 t.goto(-125,-125)
 t.pendown()
 for c in range(113):
-  for c in ['crimson', 'lime', 'yellow', 'blue']:
+  for c in ['fire brick', 'chartreuse', 'dark orange	', 'blue violet']:
     t.color(c)
     t.forward(250)
     t.left(89.8)
-
